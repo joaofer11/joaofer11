@@ -1,4 +1,4 @@
-## Hey Eveyone... 👋
+## Hey Eveyone... 🔥
 
 <p>Aspirante, autodidata e focado, sempre buscando o aperfeiçoamento das skills, e em um processo constante de evolução.</p>
 <div>
