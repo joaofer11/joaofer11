@@ -8,14 +8,14 @@
 
 ## ⚙ &nbsp;Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-0E0E0F?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0E0E0F?style=for-the-badge&logo=css3&logoColor=1572b6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0E0E0F?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0F?style=for-the-badge&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/React-0E0E0F?style=for-the-badge&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/Git-0E0E0F?style=for-the-badge&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/Github-0E0E0F?style=for-the-badge&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0E0E0F?style=for-the-badge&logo=figma)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0E0E0F?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0E0E0F?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0E0E0F?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0F?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-0E0E0F?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-0E0E0F?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-0E0E0F?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-0E0E0F?style=for-the-badge&logo=figma)
 
 ---
 
