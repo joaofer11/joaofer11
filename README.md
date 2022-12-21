@@ -1,23 +1,26 @@
-## Hey Everyone... 🔥
+<h1>Hey everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Fernandes</h1>
 
-<p>Aspirante, autodidata e focado, sempre buscando o aperfeiçoamento das skills, e em um processo constante de evolução.</p>
-<div>
- <a href = "mailto:joaofergear003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  
-</div>
+- 🥷 &nbsp;Skills: **HTML5 | CSS3 (Styled-Components) | JavaScript (ES6+) |
+ TypeScript | ReactJS (Redux) | Git | Github | Figma**
+- 🚀 &nbsp;I'm currently looking for a job as a **Front-End** developer
 
-## GITHUB
+<br>
 
-<div>
-  <a href="https://github.com/joaofer11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaofer11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofer11&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div><br>
-  <img align="center" alt="João-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="João-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="João-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="João-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Linux-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+## ⚙ &nbsp;Tech Stack
 
-##
+![HTML5](https://img.shields.io/badge/HTML5-0C0C1F?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0C0C1F?style=for-the-badge&logo=css3&logoColor=1572b6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0C0C1F?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0C0C1F?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/React-0C0C1F?style=for-the-badge&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/Git-0C0C1F?style=for-the-badge&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/Github-0C0C1F?style=for-the-badge&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0C0C1F?style=for-the-badge&logo=figma)&nbsp;
+
+<br>
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=joaofer11&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues,stars&title_color=5286FF&icon_color=CC8033&bg_color=ffffff00&text_color=DDE6F0&hide_border=true"
+/>
