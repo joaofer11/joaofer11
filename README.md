@@ -19,8 +19,4 @@
 
 ---
 
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=joaofer11&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues,stars&title_color=5286FF&icon_color=CC8033&bg_color=ffffff00&text_color=DDE6F0&border_color=2F353D"
-/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joaofer11&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues,stars&title_color=5286FF&icon_color=CC8033&bg_color=00000000&text_color=DDE6F0&border_color=2F353D)
