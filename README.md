@@ -8,19 +8,19 @@
 
 ## ⚙ &nbsp;Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-0C0C1F?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0C0C1F?style=for-the-badge&logo=css3&logoColor=1572b6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0C0C1F?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0C0C1F?style=for-the-badge&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/React-0C0C1F?style=for-the-badge&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/Git-0C0C1F?style=for-the-badge&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/Github-0C0C1F?style=for-the-badge&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0C0C1F?style=for-the-badge&logo=figma)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0E0E0F?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0E0E0F?style=for-the-badge&logo=css3&logoColor=1572b6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0E0E0F?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0E0E0F?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/React-0E0E0F?style=for-the-badge&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/Git-0E0E0F?style=for-the-badge&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/Github-0E0E0F?style=for-the-badge&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0E0E0F?style=for-the-badge&logo=figma)&nbsp;
 
-<br>
+---
 
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=joaofer11&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues,stars&title_color=5286FF&icon_color=CC8033&bg_color=ffffff00&text_color=DDE6F0&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=joaofer11&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues,stars&title_color=5286FF&icon_color=CC8033&bg_color=ffffff00&text_color=DDE6F0&border_color=2F353D"
 />
