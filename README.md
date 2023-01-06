@@ -1,3 +1,4 @@
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/97243990/211103966-27a6fb37-0f5f-4f05-9f91-5c08185f039b.svg" alt="Personal Banner" />
 <h1>
   Hey everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, My name is João  Fernandes
 </h1>
@@ -19,7 +20,7 @@ I'm a self-taught guy who likes to create some **Front-End** applications using 
 - 🥷 &nbsp;Skills: **HTML5 | CSS3 (Styled-Components) | JavaScript (ES6+) |
  TypeScript | ReactJS (Redux) | Git | Github | Figma**
 - 🚀 &nbsp;I'm currently looking for a job as a **Front-End** developer.
-- 🎭 &nbsp;Love for art.
+- 👨‍🚀 &nbsp; Keep learning.
 
 <br>
 
